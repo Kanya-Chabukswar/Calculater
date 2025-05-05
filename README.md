@@ -30,5 +30,6 @@ calculator/
 ├── img/
 │ └── Background img.png
 └── script.js
+
 ![Preview Img](https://github.com/user-attachments/assets/07eec686-cad8-408f-99cb-3e4be1f62ef7)
 
